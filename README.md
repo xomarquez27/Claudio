@@ -1,6 +1,8 @@
 # Claudio
 
+It is not Claude's Hispanic cousin.
 Claudio is a tiny command-line music player written in C++.
+It stands for CL Audio (command line audio).
 
 It parses simple text-based music notation, generates a WAV file, and plays it using macOS `afplay`.
 
